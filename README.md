@@ -50,7 +50,9 @@ Provided by Career Foundry, this dataset classifies days as "pleasant" (1) or "u
 It was utilized to evaluate the performance of different machine learning models in predicting favorable weather conditions.
 (This dataset is not publicly available for download.)
 
-<b>This repository contains Jupyter notebook: </b>
+
+
+<h1>This repository contains Jupyter notebook:</h1>
 
 <b>01 Project Management</b>
 Contains the project brief outlining the objectives, key questions and data sources.
@@ -61,6 +63,7 @@ Contains the python scripts created on Google Colab detailing the analysis proce
 <b>05 Sent to Client</b>
 
 <b>Contains the final presentation.</b>
+
 
 
 
