@@ -6,13 +6,27 @@ This project expands on Climate Wins (Part 1) by leveraging advanced machine lea
 
 Climate Wins aims to explore and implement various machine learning approaches—including unsupervised learning, deep learning, and model optimisationvto analyze weather data, identify patterns, and enhance climate prediction accuracy.
 
-<b>Machine Learning techniques used to help predict weather conditions:</b>
+<b>1. Unsupervised Learning Models</b>
 
-<b>• Unsupervised Learning – Finds patterns in weather data without predefined labels (e.g., clustering, dimensionality reduction).</b>
+•  K-Means Clustering – Used to identify weather patterns and clusters in weather data over the last 80 years.
 
-<b>• Deep Learning (CNNs & RNNs) – Used for image recognition (handwriting/weather data) and sequence predictions.</b>
+•  Dendrograms and Principal Component Analysis (PCA) – Used for dimensionality reduction to simplify weather data and identify patterns or clusters within the data.
 
-<b>• Generative Models (GANs) – Creates synthetic data and improves image quality for better predictions.</b>
+
+<b>2.  Complex Machine Learning Models</b>
+
+• Convolutional Neural Networks (CNNs) – Applied to analyze the dataset, with accuracy assessed based on prediction results.
+
+• Recurrent Neural Networks (RNNs) – Used to predict weather patterns by learning from historical time-series data.
+
+• Random Forests – Applied to classify and predict weather events, with accuracy evaluated through model performance.
+
+
+<b>3. Hyperparameter Optimisation</b>
+
+Random Search – Applied to test and optimise hyperparameters for machine learning models like random forests and deep learning.
+
+
 
 
 
