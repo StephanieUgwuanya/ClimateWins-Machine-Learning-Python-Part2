@@ -32,12 +32,15 @@ The following data sets were used for this project:
 
 1. Weather Conditions Dataset
 Kaggle Dataset - this dataset includes images of various weather conditions such as sunny, cloudy, rainy, and snowy.
-Download the dataset here
+<a href="[https://www.ecad.eu/](https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset
+)">Download the dataset here</a>
 
-2. European Historical Weather Data
+
+
+3. European Historical Weather Data
 This dataset includes historical weather data from various European cities used for training and testing weather prediction models.
 
-3. Handwritten Digits (MNIST)
+4. Handwritten Digits (MNIST)
 The MNIST dataset was used to train and test handwriting recognition models. This dataset contains images of handwritten digits from 0 to 9.
 Download the dataset here
 
