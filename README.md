@@ -8,7 +8,7 @@ Climate Wins aims to explore and implement various machine learning approaches�
 
 <b>1. Unsupervised Learning Models</b>
 
-•  K-Means Clustering – Used to identify weather patterns and clusters in weather data over the last 80 years.
+•  K-Means Clustering – Used to identify weather patterns and clusters in weather data over time.
 
 •  Dendrograms and Principal Component Analysis (PCA) – Used for dimensionality reduction to simplify weather data and identify patterns or clusters within the data.
 
