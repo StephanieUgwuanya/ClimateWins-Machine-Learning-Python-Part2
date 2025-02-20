@@ -24,7 +24,7 @@ Climate Wins aims to explore and implement various machine learning approaches�
 
 <b>3. Hyperparameter Optimisation</b>
 
-Random Search – Applied to test and optimise hyperparameters for machine learning models like random forests and deep learning.
+• Random Search – Applied to test and optimise hyperparameters for machine learning models like random forests and deep learning.
 
 
 
