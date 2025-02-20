@@ -60,9 +60,8 @@ Contains the project brief outlining the objectives, key questions and data sour
 <b>03 Scripts</b>
 Contains the python scripts created on Google Colab detailing the analysis process.
 
-<b>05 Sent to Client</b>
-
-<b>Contains the final presentation.</b>
+<b>05 Sent to Client</b> 
+Contains the final presentation.
 
 
 
