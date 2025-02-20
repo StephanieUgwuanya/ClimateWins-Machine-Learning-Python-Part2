@@ -8,11 +8,11 @@ This project aims to explore and implement various machine learning approaches�
 
 <b>Machine Learning techniques used to help predict weather conditions:</b>
 
-• Unsupervised Learning – Finds patterns in weather data without predefined labels (e.g., clustering, dimensionality reduction).
+<b>• Unsupervised Learning – Finds patterns in weather data without predefined labels (e.g., clustering, dimensionality reduction).</b>
 
-• Deep Learning (CNNs & RNNs) – Used for image recognition (handwriting/weather data) and sequence predictions.
+<b>• Deep Learning (CNNs & RNNs) – Used for image recognition (handwriting/weather data) and sequence predictions.</b>
 
-• Generative Models (GANs) – Creates synthetic data and improves image quality for better predictions.
+<b>• Generative Models (GANs) – Creates synthetic data and improves image quality for better predictions.</b>
 
 
 
