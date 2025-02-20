@@ -4,7 +4,7 @@ This project expands on Climate Wins (Part 1) by leveraging advanced machine lea
 
 <h1>Objectives</h1>
 
-Climate Wins aims to explore and implement various machine learning approaches—including unsupervised learning, deep learning, and model optimisation to analyze weather data, identify patterns, and enhance climate prediction accuracy.
+Climate Wins aims to explore and implement various machine learning approaches—including unsupervised learning, deep learning, and model optimisation to analyse weather data, identify patterns, and enhance climate prediction accuracy.
 
 <b>1. Unsupervised Learning Models</b>
 
