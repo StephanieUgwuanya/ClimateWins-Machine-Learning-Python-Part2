@@ -64,11 +64,9 @@ Contains the python scripts created on Google Colab detailing the analysis proce
 Contains graphs generated throughout this analysis.
 
 <b>05 Sent to Client</b> 
-Contains the final presentation.
+Contains the final presentation. 
 
-Final Presentation Here 
-
-<a href="[https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset](https://vimeo.com/manage/videos/1059311734/2705f2c326)">Download the dataset here</a>
+<b><a href="https://vimeo.com/manage/videos/1059311734/2705f2c326">Final Presentation Here</a></b>
 
 
 
