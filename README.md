@@ -38,6 +38,7 @@ Kaggle Dataset - this dataset includes images of various weather conditions such
 
 <b>2. European Historical Weather Data</b>
 This dataset includes historical weather data from various European cities used for training and testing weather prediction models.
+<a href="https://drive.google.com/file/d/18EMo-LyA8Pd5cWYYu693Z-t7on5bhqn3/view?usp=drive_link">Download the dataset here</a>
 
 
 <b>4. Handwritten Digits (MNIST)</b>
