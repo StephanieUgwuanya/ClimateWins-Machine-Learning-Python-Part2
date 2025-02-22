@@ -43,13 +43,12 @@ This dataset includes historical weather data from various European cities used 
 <b>4. Handwritten Digits (MNIST)</b>
 The MNIST dataset was used to train and test handwriting recognition models. This dataset contains images of handwritten digits from 0 to 9.
 Download the dataset here
+<a href="https://en.wikipedia.org/wiki/MNIST_database">Download the dataset here</a>
 
 
 <b>5. Answers Dataset for Pleasant Weather Prediction</b>
 Provided by Career Foundry, this dataset classifies days as "pleasant" (1) or "unpleasant" (0) based on weather observations.
-It was utilized to evaluate the performance of different machine learning models in predicting favorable weather conditions.
 (This dataset is not publicly available for download.)
-
 
 
 <h1>This repository contains:</h1>
