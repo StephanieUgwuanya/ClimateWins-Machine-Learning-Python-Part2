@@ -33,6 +33,7 @@ The following data sets were used for this project:
 
 <b>1. Weather Conditions Dataseta</b>
 Kaggle Dataset - this dataset includes images of various weather conditions such as sunny, cloudy, rainy, and snowy.
+
 <a href="https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset">Download the dataset here</a>
 
 
