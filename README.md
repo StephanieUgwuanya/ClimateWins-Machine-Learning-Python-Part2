@@ -52,7 +52,7 @@ It was utilized to evaluate the performance of different machine learning models
 
 
 
-<h1>This repository contains Jupyter notebook:</h1>
+<h1>This repository contains:</h1>
 
 <b>01 Project Management</b>
 Contains the project brief outlining the objectives, key questions and data sources.
@@ -61,10 +61,14 @@ Contains the project brief outlining the objectives, key questions and data sour
 Contains the python scripts created on Google Colab detailing the analysis process.
 
 <b>04 Analysis/Visualisation</b>
-Contains the graphs generated throughout this analysis.
+Contains graphs generated throughout this analysis.
 
 <b>05 Sent to Client</b> 
 Contains the final presentation.
+
+Final Presentation Here 
+
+<a href="[https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset](https://vimeo.com/manage/videos/1059311734/2705f2c326)">Download the dataset here</a>
 
 
 
